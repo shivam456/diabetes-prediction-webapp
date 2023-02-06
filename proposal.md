@@ -5,7 +5,7 @@
 - Anirudh Prabakaran (aprabakaran3) - ML Engineer
 - Harsh Goyal (hgoyal34) - Backend (Go) and ML Engineer
 - Kanika Dhiman (kdhiman6) - Backend (Java + SpringBoot, APIs), Database
-- Shivam Rustogi (srustgi3) -  Backend (Java + SpringBoot, APIs, Php (Hack), Python) 
+- Shivam Rustogi (srustogi3) -  Backend (Java + SpringBoot, APIs, Php (Hack), Python) 
 
 ## 1st Project Choice
 ### Topic
